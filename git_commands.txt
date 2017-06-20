@@ -22,3 +22,7 @@ git log -shows you what you did
     git remote add origin [url of repo]
     
 after adding the origin/or if it alread exits enter: gi push -u origin master 
+
+to get updated information if some one else is working on your github project enter : git pull
+
+
