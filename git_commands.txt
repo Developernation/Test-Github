@@ -25,4 +25,4 @@ after adding the origin/or if it alread exits enter: gi push -u origin master
 
 to get updated information if some one else is working on your github project enter : git pull
 
-
+git difftool -- allows you to see the difference between whatever code you had previously vs whatever code you have now
