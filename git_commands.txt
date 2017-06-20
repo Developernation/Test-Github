@@ -1,5 +1,5 @@
 #https://www.youtube.com/watch?v=73I5dRucCds
-
+#https://www.youtube.com/watch?v=eL_0Ok_Gkas
 
 to log in type: git config --global user.name "username"
                 git config --global user.email "simeon.f.anderson@gmail.com"
