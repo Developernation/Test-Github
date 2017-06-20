@@ -1,5 +1,6 @@
 #https://www.youtube.com/watch?v=73I5dRucCds
 #https://www.youtube.com/watch?v=eL_0Ok_Gkas
+https://www.youtube.com/watch?v=HVsySz-h9r4&t=326s     ***best one
 
 to log in type: git config --global user.name "username"
                 git config --global user.email "simeon.f.anderson@gmail.com"
@@ -26,3 +27,5 @@ after adding the origin/or if it alread exits enter: gi push -u origin master
 to get updated information if some one else is working on your github project enter : git pull
 
 git difftool HEAD-- allows you to see the difference between whatever code you had previously vs whatever code you have now
+
+to initialize a repo from the directory you are in use : git init 
