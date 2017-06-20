@@ -1,0 +1,24 @@
+#https://www.youtube.com/watch?v=73I5dRucCds
+
+
+to log in type: git config --global user.name "username"
+                git config --global user.email "simeon.f.anderson@gmail.com"
+to copy/download all the contents of the repo you are working on use:
+                git clone [add clone url]
+we are in the (master) folder 
+
+git status --- tells you what was modified and what was not modified
+
+to update a file you made changes to and add it to the staging area : git add [filename].md
+
+to commit the changes in the files you added to the staging area and add a message enter: 
+git commit -m "[message]"
+
+#committing is documenting the change and finalizing the staging area to push onto the repo
+
+git log -shows you what you did 
+
+****if you aren't cloning a repo you have to add the origin: 
+    git remote add origin [url of repo]
+    
+after adding the origin/or if it alread exits enter: gi push -u origin master 
