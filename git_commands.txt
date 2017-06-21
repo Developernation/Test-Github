@@ -35,3 +35,18 @@ ls -la lists all of the files in a directory
 - to stop tracking a project in git remove the git file from the directory 
 *******initialize a repo from exitising code*************
 
+to ignore files create a .gitignore file 
+
+to remove files from the staging area: git reset [filename]
+
+##########Trsck sn existing repo and develop on it####################
+syntax: git clone <url> <where to clone>
+
+view information about the remote repo: git remote -v 
+                                        git branch -a
+                                        
+git remote -v = a location of where the repo is on the local macine
+git remote -a = all of the branches in our repo, not only locally but remotely as well
+
+git pull --pulls any changes that have been made since the last time we used it (it could've been used by 
+                some one else)
