@@ -29,3 +29,9 @@ to get updated information if some one else is working on your github project en
 git difftool HEAD-- allows you to see the difference between whatever code you had previously vs whatever code you have now
 
 to initialize a repo from the directory you are in use : git init 
+
+ls -la lists all of the files in a directory
+
+- to stop tracking a project in git remove the git file from the directory 
+*******initialize a repo from exitising code*************
+
